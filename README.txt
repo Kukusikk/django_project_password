@@ -17,4 +17,3 @@ python3 manage.py runserver 0.0.0.0:8000 - запуск проекта
 2.1 Приложения внутри проекта
 python3 manage.py startapp healthapp - создание приложения в django
 healthapp - вспомогельное приложение для проверки работоспособности проекта
-
